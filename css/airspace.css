@@ -812,8 +812,9 @@ footer .footer-manu ul li a {
 footer .footer-manu ul li a:hover {
   color: #000;
 }
-footer .branding-footer-container{ /* added to control the footer branding size*/
+footer .branding-footer-container img{ /* added to control the footer branding size*/
   max-width: 356px;
+  padding: 20px;
  /** display: inline-block;**/
 }
 
