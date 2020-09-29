@@ -90,6 +90,12 @@ header .navbar-default .navbar-nav li a {
 font header .navbar-default .navbar-nav li a:hover {
   color: #000;
 }
+
+header .navbar img { /* added to control the logo, note that logo size and header size are controlled separately*/
+  float:left;
+  max-height: 50px;
+  padding-bottom: 5px;
+}
 /*---------------------------------------------
 					Index Start
 -----------------------------------------------*/
@@ -113,8 +119,8 @@ font header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #8b86a3, #322e40);
-  opacity: 0.8;
+  background: linear-gradient(to left, #3F7BEA, #002f6c);  /* changed gradient to be closer to barnard colors*/
+  opacity: 1; /** changed from 0.8 to increase saturation effect */
 }
 #slider .block {
   color: #E3E3E4;
@@ -171,7 +177,8 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #service .service-item i {
   font-size: 60px;
-  color: #4A4656;
+  /*changed to match barnard color*/
+  color: #002f6c;
 }
 #service .service-item h4 {
   padding-top: 20px;
@@ -206,8 +213,8 @@ font header .navbar-default .navbar-nav li a:hover {
   bottom: 0;
   width: 100%;
   height: 100%;
-  background: #1d192c;
-  opacity: 0.8;
+  background: #002f6c; /* changed to match barnard color */
+  opacity: 1; /* changed from 0.8 to increase saturation effect */
 }
 #call-to-action h2 {
   padding-bottom: 20px;
@@ -805,3 +812,8 @@ footer .footer-manu ul li a {
 footer .footer-manu ul li a:hover {
   color: #000;
 }
+footer .branding-footer-container{ /* added to control the footer branding size*/
+  max-width: 356px;
+ /** display: inline-block;**/
+}
+
