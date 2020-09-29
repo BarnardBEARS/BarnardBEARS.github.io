@@ -809,12 +809,12 @@ footer .footer-manu ul li a {
   display: inline-block;
   color: #494949;
 }
+footer img{ /* added to control the footer branding size*/
+  max-width: 356px;
+  padding: 20px;
+}
 footer .footer-manu ul li a:hover {
   color: #000;
 }
-footer .branding-footer-container img{ /* added to control the footer branding size*/
-  max-width: 356px;
-  padding: 20px;
- /** display: inline-block;**/
-}
+
 
