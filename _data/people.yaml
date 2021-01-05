@@ -1,0 +1,59 @@
+-
+    name: Adam Poliak
+    organizer: True
+    pic: azpoliak.jpg
+    email: apoliak@barnard.edu
+    url: http://azpoliak.github.io
+    research-area: Natural Language Processing
+
+-
+    name: Sarah Morrison-Smith
+    pic: morrison-smith.jpg
+    email: prajbabu@barnard.edu
+    url: https://sarahmorrisonsmith.com/
+    organizer: True
+    research-area: Human Computer Interaction
+-
+    name: Tara Anand
+    pic: Anand.JPEG
+    email:
+    mentor: True
+    research-area: Biomedical Informatics, Data Science 
+    research: Tara is a PhD student with the Columbia Department of Biomedical Informatics and a Class of 2020 Barnard alumna. At Barnard, Tara studied Computer Science and Asian and Middle Eastern Cultures, and, as a Clare Boothe Luce Scholar, conducted informatics research on multi-drug interactions. Tara's research interests lie at the intersection of artificial intelligence and health care, specifically using natural language processing and other machine learning approaches to leverage electronic health records for knowledge discovery and improved clinical decision support for rare diseases and patient care broadly. 
+-
+    name: Katy Gero
+    mentor: True
+    pic: Gero.jpg
+    url: https://www.katygero.com/
+    research-area: Human Computer Interaction <br>
+    research: Katy Ilonka Gero is a fourth year PhD Candidate in Computer Science. She studies human-computer interaction, in particular how computers can support writing forms like poetry, journalism, and science communication. She uses AI methods to augment our abilities, rather than replace them, and considers the ethical implications of this goal, such as how to develop systems capable of responding to a range of inputs safely, and our feelings of ownership and agency when using them. 
+-
+    name: Meghna Pancholi
+    pic: Pancholi.jpg
+    mentor: True
+    email:
+    url: 
+    research-area: Security Architecture
+    research: I am a first year Computer Science graduate student in Columbia's CASTL Lab Group. My primary research interests are in computer security and computer architecture. Prior to Columbia, I was an undergraduate student at Cornell University. Outside of school, I love exploring coffee shops, reading, and going for walks!
+-
+    name: Caitlin Dreisbach
+    mentor: True
+    email: 
+    pic: Dresibach.jpg 
+    research: Caitlin Dreisbach, PhD, RN is currently a postdoctoral research scientist at the Data Science Institute at Columbia. Her research focus is on data-informed women's health including the co-creation of healthcare tools with patients. As a former labor and delivery nurse, Cait is interested in reimagining the current state of fetal monitoring during labor and delivery and using data, in combination with the real-world experiences of women, to enhance to care we provide at the bedside. Cait received her PhD and Master’s in Data Science from the University of Virginia, her Bachelor’s in Nursing from The Johns Hopkins University, and a Bachelor’s of Science from Cornell University. 
+    research-area: Applied health data science
+    url: https://datascience.columbia.edu/people/caitlin-n-dreisbach/
+-
+    name: Pooja M Desai
+    pic: Desai.png
+    email:
+    mentor: True
+    research: Pooja (BC’18) is a first year PhD student in the Department of Biomedical Informatics at Columbia University Medical Center. Her research blends HCI and Machine Learning and centers around building personalized tools to help patients manage chronic diseases. 
+    research-area: Biomedical Informatics, Human Computer Interaction
+-
+    name: Mia Chiquier
+    pic: Chiquier.png
+    email:
+    mentor: True
+    research: Mia Chiquier is a first year PhD student in Computer Science at Columbia University, advised by Dr. Carl Vondrick. Her research focuses on integrating multi-sensory information over space and time, with the goal that the learned associations allow machines to understand the dynamics and semantics of their environment effectively and creatively. She previously graduated from the University of Pennsylvania with a BS in Computer Science, and minors in Mathematics, Computational Neuroscience and Systems Engineering.
+    research-area: Computer Vision, Multimodal Learning

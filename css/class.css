@@ -1,0 +1,18 @@
+body { padding-top: 70px; }
+
+.announcements {
+    width: 80%;
+    margin-right: auto;
+}
+
+.date {
+    font-weight: bold;
+    vertical-align: top;
+    color: #0072c1;
+    width: 5em;
+    margin-right: 10px;
+}
+
+.announcement {
+    margin-left: 40px;
+}

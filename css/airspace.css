@@ -103,7 +103,7 @@ header .navbar img { /* added to control the logo, note that logo size and heade
 	Slider Start
 --*/
 #slider {
-  background: url("../img/slider-bg.jpg") no-repeat;
+  background: url("../assests/img/slider-bg.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
@@ -238,7 +238,7 @@ header .navbar img { /* added to control the logo, note that logo size and heade
 	Feature Start
 --*/
 #feature {
-  background: url("../img/featue-bg.jpg");
+  background: url("../assests/img/featue-bg.jpg");
   background-position: 50% 94px;
   width: 100%;
   display: block;
@@ -365,7 +365,7 @@ header .navbar img { /* added to control the logo, note that logo size and heade
 	Slider-work Start
 --*/
 #global-header {
-  background: url("../img/slider-bg.jpg") no-repeat;
+  background: url("../assets/img/slider-bg.jpg") no-repeat;
   background-size: cover;
   padding-top: 150px;
   padding-bottom: 107px;
@@ -614,7 +614,7 @@ header .navbar img { /* added to control the logo, note that logo size and heade
 	slider-contact Start
 --*/
 #slider-contact {
-  background: url("../img/slider-bg.jpg") no-repeat;
+  background: url("../assets/img/slider-bg.jpg") no-repeat;
   background-size: cover;
   padding-top: 150px;
   padding-bottom: 107px;
